@@ -1,9 +1,13 @@
-# ALF-Minishift
-Lennart's Minishift
+# ALF-Minishift Lennart's Minishift
+ 
+# Getting started with minishift
+## https://docs.okd.io/latest/minishift/getting-started/index.html
+# 
 
-# https://docs.okd.io/latest/minishift/getting-started/quickstart.html
 
-### Minishift Quickstart https://docs.okd.io/latest/minishift/getting-started/quickstart.html
 
-### Overview. 
-### Minishift Quickstart https://docs.okd.io/latest/minishift/getting-started/quickstart.html
+# Tips
+
+eval $(minishift oc-env)
+
+# https://github.com/IBMDeveloperUK/minishift101 Minishft 101 
