@@ -30,7 +30,7 @@ Minishift and OpenShift 4 are very different, but Minishift is nevertheless a po
 ### https://docs.okd.io/latest/minishift/getting-started/installing.html
 ## Install Minishift with Homebrew
 
-## Minishift Quickstart
+## Minishift Quickstart 
 ### https://docs.okd.io/latest/minishift/getting-started/quickstart.html
 
 ## Starting Minishift
