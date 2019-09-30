@@ -5,6 +5,7 @@ Red Hat OpenShift is a leading hybrid cloud, enterprise Kubernetes application p
 
 <img src="src/redhatopenshift.png" height="500" width="750">
 
+<img src="src/openshiftdescription.png" height="500" width="750">
 
 # ALF-Minishift Lennart's Minishift
 
