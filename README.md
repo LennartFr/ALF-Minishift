@@ -2,7 +2,8 @@
  
 # Getting started with minishift
 ## https://docs.okd.io/latest/minishift/getting-started/index.html
-# 
+
+# Using Minishift https://docs.okd.io/latest/minishift/using/index.html
 
 
 
