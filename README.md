@@ -1,6 +1,6 @@
-<img src= \??src\redhatopenshift.png" height="500" width="750">
+<img src= "\src\redhatopenshift.png" height="500" width="750">
 
-<img src= /src/redhatopenshift.png" height="500" width="750">
+<img src= "/src/redhatopenshift.png" height="500" width="750">
 
 
 # ALF-Minishift Lennart's Minishift
