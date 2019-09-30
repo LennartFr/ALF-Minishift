@@ -1,3 +1,5 @@
+<img src="redhatopenshift.png" height="500" width="750">
+
 # ALF-Minishift Lennart's Minishift
 
 # What is OpenShift? https://www.openshift.com/learn/what-is-openshift
