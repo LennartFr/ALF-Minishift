@@ -1,6 +1,14 @@
 # ALF-Minishift Lennart's Minishift
 
+# What is OpenShift? https://www.openshift.com/learn/what-is-openshift
+
 # Intro https://www.redhat.com/sysadmin/learn-openshift-minishift
+
+OKD is the Origin Community Distribution of Kubernetes that powers Red Hat Open Shift
+
+Minishift is a tool that helps you run OKD locally by launching a single-node OKD cluster inside a virtual machine. With Minishift you can try out OKD or develop with it, day-to-day, on your local machine.
+
+You can run Minishift on the Windows, macOS, and GNU/Linux operating systems. Minishift uses libmachine for provisioning virtual machines, and OKD for running the cluster.
 
 Minishift is a tool that helps you run OKD locally by launching a single-node OKD cluster inside a virtual machine. With Minishift you can try out OKD or develop with it, day-to-day, on your local machine.
 
