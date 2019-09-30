@@ -2,16 +2,14 @@
 
 # Intro https://www.redhat.com/sysadmin/learn-openshift-minishift
 
-The days of micro-managing users on a shared UNIX server are over. The modern system administrator deals with a cloud of ephemeral compute nodes and the scripts that orchestrate them. There are a few different implementations of this infrastructure model, and one of the most important is Red Hat OpenShift.
+Minishift is a tool that helps you run OKD locally by launching a single-node OKD cluster inside a virtual machine. With Minishift you can try out OKD or develop with it, day-to-day, on your local machine.
 
-Learning how to navigate the cloud can seem daunting at first, especially given the inherent assumption that you have a cluster of computers to orchestrate. If you don't happen to have a spare data center at your disposal, you can sign up for an account on OpenShift.io, which provides you with an online hosted OpenShift 4 experience.
-
-If that approach sounds overwhelming, though, there's an even easier way to log time in the cloud. Red Hat's web-based learn.openshift.com lab offers six separate courses, depending on what aspect of cloud management you need to learn. But if you're the kind of admin who wants to know how the cloud is built in the first place, and not just how to use it, then you need to start at a lower level.
-
-That level is Minishift. This tool was created by the OKD community project, which was formed to separate the product that relies upon Red Hat's infrastructure from the technology available to everyone. This community is the upstream origin of OpenShift and their Minishift tool allows you to run a containerized single-node cluster so you can develop for Kubernetes on your local machine. Minishift and OpenShift 4 are very different, but Minishift is nevertheless a powerful introduction to the concept of running a cluster, creating projects, monitoring tasks, and maintaining a cloud infrastructure.
+You can run Minishift on the Windows, macOS, and GNU/Linux operating systems. Minishift uses libmachine for provisioning virtual machines, and OKD for running the cluster.
 
 
+Minishift was created by the OKD community project, which was formed to separate the product that relies upon Red Hat's infrastructure from the technology available to everyone. This community is the upstream origin of OpenShift and their Minishift tool allows you to run a containerized single-node cluster so you can develop for Kubernetes on your local machine.
 
+Minishift and OpenShift 4 are very different, but Minishift is nevertheless a powerful introduction to the concept of running a cluster, creating projects, monitoring tasks, and maintaining a cloud infrastructure.
  
 # Getting started with minishift.  
 ## https://docs.okd.io/latest/minishift/getting-started/index.html
