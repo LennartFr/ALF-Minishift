@@ -1,5 +1,7 @@
 
-# [What is Openshift](https://www.openshift.com/learn/what-is-openshift)
+# [What is Openshift](https://www.openshift.com/learn/what-is-openshift)?
+
+Red Hat OpenShift is a leading hybrid cloud, enterprise Kubernetes application platform, trusted by 1000+ organizations. 
 
 <img src="src/redhatopenshift.png" height="500" width="750">
 
