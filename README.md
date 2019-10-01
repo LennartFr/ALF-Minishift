@@ -9,6 +9,8 @@ Red Hat OpenShift is a leading hybrid cloud, enterprise Kubernetes application p
 
 # ALF-Minishift Lennart's Minishift
 
+[Launch Minishift](https://computingforgeeks.com/how-to-run-local-openshift-cluster-with-minishift/)
+
 # What is OpenShift? https://www.openshift.com/learn/what-is-openshift
 
 # Intro https://www.redhat.com/sysadmin/learn-openshift-minishift
