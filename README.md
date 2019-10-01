@@ -13,6 +13,8 @@ FAAS: Functions as a service
 
 # ALF-Minishift Lennart's Minishift
 
+# https://github.com/IBMDeveloperUK/minishift101 Minishft 101
+
 Minishift lifecycle
 https://docs.okd.io/latest/minishift/using/basic-usage.html#diagram-minishift-architecture
 
