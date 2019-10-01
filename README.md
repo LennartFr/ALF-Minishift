@@ -3,6 +3,10 @@
 
 Red Hat OpenShift is a leading hybrid cloud, enterprise Kubernetes application platform, trusted by 1000+ organizations. 
 
+CAAS:Containers as a service
+PAAS:Platform as a service
+FAAS: Functions as a service
+
 <img src="src/redhatopenshift.png" height="500" width="750">
 
 <img src="src/openshiftdescription.png" height="500" width="750">
