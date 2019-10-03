@@ -1,8 +1,8 @@
 # Material
 
-[Understanding OpenShift](https://github.com/nheidloff/openshift-on-ibm-cloud-workshops/blob/master/1-understanding-openshift/README.md#understanding-openshift)
+## Chapter 1[Understanding OpenShift](https://github.com/nheidloff/openshift-on-ibm-cloud-workshops/blob/master/1-understanding-openshift/README.md#understanding-openshift)
 
-[OpenShift on IBM Cloud Workshops. Deploying Java Microservices to open shift on IBM Cloud](https://github.com/nheidloff/openshift-on-ibm-cloud-workshops#workshop-2-deploying-java-microservices-to-openshift-on-ibm-cloud)
+## Chaoter 2[OpenShift on IBM Cloud Workshops. Deploying Java Microservices to open shift on IBM Cloud](https://github.com/nheidloff/openshift-on-ibm-cloud-workshops#workshop-2-deploying-java-microservices-to-openshift-on-ibm-cloud)
 
 
 
