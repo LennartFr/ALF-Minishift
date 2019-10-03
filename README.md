@@ -2,7 +2,7 @@
 
 # Material
 
-## Chapter 1: Introduction to Containers etc
+## Chapter 1: [Introduction to Containers](https://www.ibm.com/cloud/learn/containers)
 
 ## Chapter 2: [Introduction to Minishift](https://github.com/IBMDeveloperUK/minishift101)
 
