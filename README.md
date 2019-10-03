@@ -27,7 +27,7 @@ FAAS: Functions as a service
 
 # ALF-Minishift Lennart's Minishift
 
-
+  
 
 Minishift lifecycle
 https://docs.okd.io/latest/minishift/using/basic-usage.html#diagram-minishift-architecture
