@@ -1,8 +1,8 @@
-<img src="src/OpenShift.png" height="300" width="205">
+<img src="src/OpenShift.png" height="205" width="305">
 
-<img src="src/Docker.png" height="300" width="205">
+<img src="src/Docker.png" height="205" width="205">
 
-<img src="src/Kubernetes.png" height="300" width="205">
+<img src="src/Kubernetes.png" height="205" width="205">
 
 # Material
 
