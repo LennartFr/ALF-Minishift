@@ -1,3 +1,5 @@
+<img src="src/openshift.png" height="500" width="400">
+
 # Material
 
 ## Chapter 1 [Understanding OpenShift](https://github.com/nheidloff/openshift-on-ibm-cloud-workshops/blob/master/1-understanding-openshift/README.md#understanding-openshift)
