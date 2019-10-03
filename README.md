@@ -1,4 +1,4 @@
-<img src="src/OpenShift.png" height="300" width="200">
+<img src="src/OpenShift.png" height="300" width="205">
 
 # Material
 
