@@ -4,7 +4,7 @@
 
 ## Chapter 1: Introduction to Containers etc
 
-## Chapter 2: [Introduction to Minishift](https://github.com/IBMDeveloperUK/minishift101 Minishft 101)
+## Chapter 2: [Introduction to Minishift](https://github.com/IBMDeveloperUK/minishift101)
 
 ## Chapter 3: [Understanding OpenShift](https://github.com/nheidloff/openshift-on-ibm-cloud-workshops/blob/master/1-understanding-openshift/README.md#understanding-openshift)
 
