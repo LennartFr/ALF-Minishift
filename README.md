@@ -1,10 +1,14 @@
 <img src="src/OpenShift.png" height="105" width="105">
 
-<img src="src/Docker.png" height="105" width="105">
-
-<img src="src/Kubernetes.png" height="105" width="105">
-
 # Material
+
+Docker, Apache Mesos, rkt (pronounced “rocket”), and Kubernetes.
+
+[IBM Cloud Kubernetes Service](https://www.ibm.com/cloud/container-service)
+
+[Containers and Docker](https://www.ibm.com/cloud/garage/content/course/containers-and-docker/2)
+
+## Technologies:
 
 ## Chapter 1: [Introduction to Containers](https://www.ibm.com/cloud/learn/containers)
 
