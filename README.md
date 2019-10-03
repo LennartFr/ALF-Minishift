@@ -1,3 +1,9 @@
+# Material
+
+[OpenShift on IBM Cloud Workshops. Deploying Java Microservices to open shift on IBM Cloud](https://github.com/nheidloff/openshift-on-ibm-cloud-workshops#workshop-2-deploying-java-microservices-to-openshift-on-ibm-cloud)
+
+
+
 
 # [What is Openshift](https://www.openshift.com/learn/what-is-openshift)?
 
