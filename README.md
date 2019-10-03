@@ -2,12 +2,16 @@
 
 # Material
 
-## Chapter 1 [Understanding OpenShift](https://github.com/nheidloff/openshift-on-ibm-cloud-workshops/blob/master/1-understanding-openshift/README.md#understanding-openshift)
+## Chapter 1: Introduction to Containers etc
 
-## Chaoter 2 [OpenShift on IBM Cloud Workshops. Deploying Java Microservices to open shift on IBM Cloud](https://github.com/nheidloff/openshift-on-ibm-cloud-workshops#workshop-2-deploying-java-microservices-to-openshift-on-ibm-cloud)
+## Chapter 2: [Introduction to Minishift](https://github.com/IBMDeveloperUK/minishift101 Minishft 101)
+
+## Chapter 3 [Understanding OpenShift](https://github.com/nheidloff/openshift-on-ibm-cloud-workshops/blob/master/1-understanding-openshift/README.md#understanding-openshift)
+
+## Chapter 4 [OpenShift on IBM Cloud Workshops. Deploying Java Microservices to open shift on IBM Cloud](https://github.com/nheidloff/openshift-on-ibm-cloud-workshops#workshop-2-deploying-java-microservices-to-openshift-on-ibm-cloud)
 
 
-
+<hr>
 
 # [What is Openshift](https://www.openshift.com/learn/what-is-openshift)?
 
@@ -23,7 +27,7 @@ FAAS: Functions as a service
 
 # ALF-Minishift Lennart's Minishift
 
-# https://github.com/IBMDeveloperUK/minishift101 Minishft 101
+
 
 Minishift lifecycle
 https://docs.okd.io/latest/minishift/using/basic-usage.html#diagram-minishift-architecture
