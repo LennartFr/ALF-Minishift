@@ -6,9 +6,9 @@
 
 [Containers and Docker](https://www.ibm.com/cloud/garage/content/course/containers-and-docker/2)
 
-### [Workshop 1:] Understanding Openshift(https://github.com/IBM/openshift-on-ibm-cloud-workshops#workshop-1-understanding-openshift)
+### [Workshop 1: Understanding Openshift](https://github.com/IBM/openshift-on-ibm-cloud-workshops#workshop-1-understanding-openshift)
 
-### [Workshop 2:] Deploying Java Microservices to OpenShift on IBM Cloud (https://github.com/IBM/openshift-on-ibm-cloud-workshops#workshop-2-deploying-java-microservices-to-openshift-on-ibm-cloud)
+### [Workshop 2: Deploying Java Microservices to OpenShift on IBM Cloud](https://github.com/IBM/openshift-on-ibm-cloud-workshops#workshop-2-deploying-java-microservices-to-openshift-on-ibm-cloud)
 
 ## Chapter 1: [Introduction to Containers](https://www.ibm.com/cloud/learn/containers)
 
