@@ -31,6 +31,8 @@ In order to run these workshops, you need an IBM Cloud account.
 
 <hr>
 
+### [Resources and Next Steps](https://github.com/nheidloff/openshift-on-ibm-cloud-workshops#resources-and-next-steps)
+
 # [What is Openshift](https://www.openshift.com/learn/what-is-openshift)?
 
 Red Hat OpenShift is a leading hybrid cloud, enterprise Kubernetes application platform, trusted by 1000+ organizations. 
