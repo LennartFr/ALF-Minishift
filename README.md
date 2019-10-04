@@ -1,10 +1,13 @@
 <img src="src/OpenShift.png" height="105" width="105">
 
-# The basic technologies
+# The basic underlying technologies
 
 <ol>
-<li>Docker and Containers
+ <li><a href="https://www.docker.com/resources/what-container">Docker</a> and <a href="https://cloud.google.com/containers/">Containers</a>
+ <li><a href="https://www.ibm.com/cloud/container-service">Kubernetes and container orchestration</a>
  </ol>
+ 
+ 
 
 
 # Introductory material
