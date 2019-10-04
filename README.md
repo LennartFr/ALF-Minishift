@@ -8,6 +8,14 @@
 
 [Containers and Docker](https://www.ibm.com/cloud/garage/content/course/containers-and-docker/2)
 
+[Introduction to Containers](https://www.ibm.com/cloud/learn/containers)
+
+[Introduction to Minishift](https://github.com/IBMDeveloperUK/minishift101)
+
+[Understanding OpenShift](https://github.com/nheidloff/openshift-on-ibm-cloud-workshops/blob/master/1-understanding-openshift/README.md#understanding-openshift)
+
+
+
 # Red Hat Openshift
 
 [Red Hat OpenShift on IBM Cloud](https://cloud.ibm.com/docs/openshift?topic=openshift-why_openshift) is an extension of the IBM Cloud Kubernetes Service, where IBM manages the OpenShift Container Platform for you.
@@ -20,15 +28,6 @@ In order to run these workshops, you need an IBM Cloud account.
 ### [Workshop 1: Understanding Openshift](https://github.com/IBM/openshift-on-ibm-cloud-workshops#workshop-1-understanding-openshift)
 
 ### [Workshop 2: Deploying Java Microservices to OpenShift on IBM Cloud](https://github.com/IBM/openshift-on-ibm-cloud-workshops#workshop-2-deploying-java-microservices-to-openshift-on-ibm-cloud)
-
-## Chapter 1: [Introduction to Containers](https://www.ibm.com/cloud/learn/containers)
-
-## Chapter 2: [Introduction to Minishift](https://github.com/IBMDeveloperUK/minishift101)
-
-## Chapter 3: [Understanding OpenShift](https://github.com/nheidloff/openshift-on-ibm-cloud-workshops/blob/master/1-understanding-openshift/README.md#understanding-openshift)
-
-## Chapter 4: [OpenShift on IBM Cloud Workshops. Deploying Java Microservices to open shift on IBM Cloud](https://github.com/nheidloff/openshift-on-ibm-cloud-workshops#workshop-2-deploying-java-microservices-to-openshift-on-ibm-cloud)
-
 
 <hr>
 
@@ -44,16 +43,11 @@ FAAS: Functions as a service
 
 <img src="src/openshiftdescription.png" height="500" width="750">
 
-# ALF-Minishift Lennart's Minishift
-
-   
 
 Minishift lifecycle
 https://docs.okd.io/latest/minishift/using/basic-usage.html#diagram-minishift-architecture
 
 [Launch Minishift](https://computingforgeeks.com/how-to-run-local-openshift-cluster-with-minishift/)
-
-# What is OpenShift? https://www.openshift.com/learn/what-is-openshift
 
 # Intro https://www.redhat.com/sysadmin/learn-openshift-minishift
 
