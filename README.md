@@ -16,12 +16,14 @@
 
 # Red Hat Openshift
 
+[What is Openshift?](https://www.openshift.com/learn/what-is-openshift)
+Red Hat OpenShift is a leading hybrid cloud, enterprise Kubernetes application platform, trusted by 1000+ organizations. 
+
 [Red Hat OpenShift on IBM Cloud](https://cloud.ibm.com/docs/openshift?topic=openshift-why_openshift) is an extension of the IBM Cloud Kubernetes Service, where IBM manages the OpenShift Container Platform for you.
 
 This repository holds a series of workshops that help you as a developer to become familiar with Red Hat OpenShift, how it can be deployed on the IBM Cloud, and how to deploy applications on and with OpenShift.
 
 In order to run these workshops, you need an IBM Cloud account.
-
 
 ### [Workshop 1: Understanding Openshift](https://github.com/IBM/openshift-on-ibm-cloud-workshops#workshop-1-understanding-openshift)
 
@@ -30,14 +32,6 @@ In order to run these workshops, you need an IBM Cloud account.
 <hr>
 
 ### [Resources and Next Steps](https://github.com/nheidloff/openshift-on-ibm-cloud-workshops#resources-and-next-steps)
-
-# [What is Openshift](https://www.openshift.com/learn/what-is-openshift)?
-
-Red Hat OpenShift is a leading hybrid cloud, enterprise Kubernetes application platform, trusted by 1000+ organizations. 
-
-CAAS:Containers as a service
-PAAS:Platform as a service
-FAAS: Functions as a service
 
 Minishift lifecycle
 
@@ -52,11 +46,6 @@ OKD is the Origin Community Distribution of Kubernetes that powers Red Hat Open 
 Minishift is a tool that helps you run OKD locally by launching a single-node OKD cluster inside a virtual machine. With Minishift you can try out OKD or develop with it, day-to-day, on your local machine.
 
 You can run Minishift on the Windows, macOS, and GNU/Linux operating systems. Minishift uses libmachine for provisioning virtual machines, and OKD for running the cluster.
-
-Minishift is a tool that helps you run OKD locally by launching a single-node OKD cluster inside a virtual machine. With Minishift you can try out OKD or develop with it, day-to-day, on your local machine.
-
-You can run Minishift on the Windows, macOS, and GNU/Linux operating systems. Minishift uses libmachine for provisioning virtual machines, and OKD for running the cluster.
-
 
 Minishift was created by the OKD community project, which was formed to separate the product that relies upon Red Hat's infrastructure from the technology available to everyone. This community is the upstream origin of OpenShift and their Minishift tool allows you to run a containerized single-node cluster so you can develop for Kubernetes on your local machine.
 
