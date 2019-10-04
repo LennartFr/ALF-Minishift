@@ -1,5 +1,12 @@
 <img src="src/OpenShift.png" height="105" width="105">
 
+# The basic technologies
+
+<ol>
+<li>Docker and Containers
+ </ol>
+
+
 # Introductory material
 
 [IBM Cloud Kubernetes Service](https://www.ibm.com/cloud/container-service)
