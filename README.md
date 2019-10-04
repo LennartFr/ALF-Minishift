@@ -2,8 +2,6 @@
 
 # Material
 
-Docker, Apache Mesos, rkt (pronounced “rocket”), and Kubernetes.
-
 [IBM Cloud Kubernetes Service](https://www.ibm.com/cloud/container-service)
 
 [Containers and Docker](https://www.ibm.com/cloud/garage/content/course/containers-and-docker/2)
