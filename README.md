@@ -8,7 +8,7 @@
 
 [Containers and Docker](https://www.ibm.com/cloud/garage/content/course/containers-and-docker/2)
 
-[Introduction to Minishift](https://github.com/IBMDeveloperUK/minishift101)
+[Minishift101](https://github.com/IBMDeveloperUK/minishift101)
 
 [Understanding OpenShift](https://github.com/nheidloff/openshift-on-ibm-cloud-workshops/blob/master/1-understanding-openshift/README.md#understanding-openshift)
 
