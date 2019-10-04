@@ -7,14 +7,16 @@
  <li><a href="https://www.ibm.com/cloud/container-service">Kubernetes and container orchestration</a>
  </ol>
  
- 
-
 
 # Introductory material
+
+[VIDEO – Kubernetes and OpenShift: What's the Difference?](VIDEO – Kubernetes and OpenShift: What's the Difference?)
 
 [IBM Cloud Kubernetes Service](https://www.ibm.com/cloud/container-service)
 
 [Introduction to Containers](https://www.ibm.com/cloud/learn/containers)
+
+[](https://www.ibm.com/cloud/blog/new-builders/kubernetes-and-openshift)
 
 [Containers and Docker](https://www.ibm.com/cloud/garage/content/course/containers-and-docker/2)
 
