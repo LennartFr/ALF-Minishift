@@ -4,9 +4,9 @@
 
 [IBM Cloud Kubernetes Service](https://www.ibm.com/cloud/container-service)
 
-[Containers and Docker](https://www.ibm.com/cloud/garage/content/course/containers-and-docker/2)
-
 [Introduction to Containers](https://www.ibm.com/cloud/learn/containers)
+
+[Containers and Docker](https://www.ibm.com/cloud/garage/content/course/containers-and-docker/2)
 
 [Introduction to Minishift](https://github.com/IBMDeveloperUK/minishift101)
 
