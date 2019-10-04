@@ -39,12 +39,8 @@ CAAS:Containers as a service
 PAAS:Platform as a service
 FAAS: Functions as a service
 
-<img src="src/redhatopenshift.png" height="500" width="750">
-
-<img src="src/openshiftdescription.png" height="500" width="750">
-
-
 Minishift lifecycle
+
 https://docs.okd.io/latest/minishift/using/basic-usage.html#diagram-minishift-architecture
 
 [Launch Minishift](https://computingforgeeks.com/how-to-run-local-openshift-cluster-with-minishift/)
