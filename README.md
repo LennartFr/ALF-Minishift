@@ -33,7 +33,8 @@ This repository holds a series of workshops that help you as a developer to beco
 
 In order to run these workshops, you need an IBM Cloud account.
 
-### [Workshop 1: Understanding Openshift](https://github.com/IBM/openshift-on-ibm-cloud-workshops#workshop-1-understanding-openshift) We will not go thru Workshop 1 because it doesn't run on IBM Cloud.
+### [Workshop 1: Understanding Openshift](https://github.com/IBM/openshift-on-ibm-cloud-workshops#workshop-1-understanding-openshift) 
+Note: We will not got thru Workshop 1 because it doesn't run on IBM Cloud, only on the Red Hat cloud.
 
 
 ### [Workshop 2: Deploying Java Microservices to OpenShift on IBM Cloud](https://github.com/IBM/openshift-on-ibm-cloud-workshops#workshop-2-deploying-java-microservices-to-openshift-on-ibm-cloud)
