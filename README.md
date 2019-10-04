@@ -2,9 +2,13 @@
 
 # Material
 
+## Introductory material
+
 [IBM Cloud Kubernetes Service](https://www.ibm.com/cloud/container-service)
 
 [Containers and Docker](https://www.ibm.com/cloud/garage/content/course/containers-and-docker/2)
+
+# Red Hat Openshift
 
 [Red Hat OpenShift on IBM Cloud](https://cloud.ibm.com/docs/openshift?topic=openshift-why_openshift) is an extension of the IBM Cloud Kubernetes Service, where IBM manages the OpenShift Container Platform for you.
 
