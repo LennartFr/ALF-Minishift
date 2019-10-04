@@ -1,8 +1,6 @@
 <img src="src/OpenShift.png" height="105" width="105">
 
-# Material
-
-## Introductory material
+# Introductory material
 
 [IBM Cloud Kubernetes Service](https://www.ibm.com/cloud/container-service)
 
