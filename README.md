@@ -13,7 +13,7 @@
 
 Video: [Kubernetes and OpenShift: What's the Difference?](https://www.ibm.com/cloud/blog/new-builders/kubernetes-and-openshift)
 
-[IBM Cloud Kubernetes Service](https://www.ibm.com/cloud/container-service)
+Video: [IBM Cloud Kubernetes Service](https://www.ibm.com/cloud/container-service)
 
 [Introduction to Containers](https://www.ibm.com/cloud/learn/containers)
 
