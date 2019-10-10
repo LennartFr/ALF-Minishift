@@ -3,8 +3,7 @@
 # The basic underlying technologies
 
 <ol> 
-
- <li>< <a href="https://cloud.google.com/containers/">Virtualization vid Containers</a> 
+ <li><a href="https://cloud.google.com/containers/">Virtualization vid Containers</a> 
  and <a href="https://www.docker.com/resources/what-container">Docker</a>
  <li><a href="https://www.ibm.com/cloud/container-service">Kubernetes and container orchestration</a>
  </ol>
