@@ -14,15 +14,15 @@ Video: [IBM Cloud Kubernetes Service](https://www.ibm.com/cloud/container-servic
 
 [Introduction to Containers](https://www.ibm.com/cloud/learn/containers)
 
-[](https://www.ibm.com/cloud/blog/new-builders/kubernetes-and-openshift)
+(https://www.ibm.com/cloud/blog/new-builders/kubernetes-and-openshift)
 
 [Containers and Docker](https://www.ibm.com/cloud/garage/content/course/containers-and-docker/2)
 
 [Minishift101](https://github.com/IBMDeveloperUK/minishift101)
 
-[Understanding OpenShift](https://github.com/nheidloff/openshift-on-ibm-cloud-workshops/blob/master/1-understanding-openshift/README.md#understanding-openshift)
+# OpenShift
 
-# Red Hat Openshift
+[Understanding OpenShift](https://github.com/nheidloff/openshift-on-ibm-cloud-workshops/blob/master/1-understanding-openshift/README.md#understanding-openshift)
 
 [What is Openshift?](https://www.openshift.com/learn/what-is-openshift)
 Red Hat OpenShift is a leading hybrid cloud, enterprise Kubernetes application platform, trusted by 1000+ organizations. 
