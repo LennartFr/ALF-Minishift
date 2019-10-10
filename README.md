@@ -22,10 +22,10 @@ Video: [IBM Cloud Kubernetes Service](https://www.ibm.com/cloud/container-servic
 
 # OpenShift
 
-[Understanding OpenShift](https://github.com/nheidloff/openshift-on-ibm-cloud-workshops/blob/master/1-understanding-openshift/README.md#understanding-openshift)
-
 [What is Openshift?](https://www.openshift.com/learn/what-is-openshift)
-Red Hat OpenShift is a leading hybrid cloud, enterprise Kubernetes application platform, trusted by 1000+ organizations. 
+Red Hat OpenShift is a leading hybrid cloud, enterprise Kubernetes application platform
+
+[Understanding OpenShift](https://github.com/nheidloff/openshift-on-ibm-cloud-workshops/blob/master/1-understanding-openshift/README.md#understanding-openshift)
 
 [Red Hat OpenShift on IBM Cloud](https://cloud.ibm.com/docs/openshift?topic=openshift-why_openshift) is an extension of the IBM Cloud Kubernetes Service, where IBM manages the OpenShift Container Platform for you.
 
