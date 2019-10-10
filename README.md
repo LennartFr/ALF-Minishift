@@ -14,7 +14,7 @@ Video: [IBM Cloud Kubernetes Service](https://www.ibm.com/cloud/container-servic
 
 [Introduction to Containers](https://www.ibm.com/cloud/learn/containers)
 
-(https://www.ibm.com/cloud/blog/new-builders/kubernetes-and-openshift)
+[Kubernetes and OpenShift(https://www.ibm.com/cloud/blog/new-builders/kubernetes-and-openshift)
 
 [Containers and Docker](https://www.ibm.com/cloud/garage/content/course/containers-and-docker/2)
 
