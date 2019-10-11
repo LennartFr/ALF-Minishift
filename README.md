@@ -19,7 +19,6 @@ Video: [IBM Cloud Kubernetes Service](https://www.ibm.com/cloud/container-servic
 
 [Containers and Docker](https://www.ibm.com/cloud/garage/content/course/containers-and-docker/2)
 
-Labs: [Minishift 101](https://github.com/IBMDeveloperUK/minishift101)
 
 # OpenShift
 
@@ -46,6 +45,7 @@ Note: For Workshop 2: we will only go thru Lab 1,4,5,6.
 
 # Minishift
 
+Labs: [Minishift 101](https://github.com/IBMDeveloperUK/minishift101)
 
 https://docs.okd.io/latest/minishift/using/basic-usage.html#diagram-minishift-architecture
 
